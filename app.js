@@ -1,3 +1,4 @@
+//  javaScript code
 const API_Key = "20397067c4ea4412be53801c9a7d0200"; //Api key
 
 const query = "pasta"; //The requirement which recipies you want to show//
