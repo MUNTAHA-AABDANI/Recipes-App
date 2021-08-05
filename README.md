@@ -11,6 +11,6 @@
 - VS Code (as Editor)
 - Browser (as runtime environment)
 # How to run code in this repo?
-- To run this app, click live github website link which is given below.
+-- To run this app, click live github website link which is given below.
 # Live Link:https://muntaha-aabdani.github.io/Recipes-App/
 # Repo Link:https://github.com/Muntaha-Aabdani/Recipes-App.git
